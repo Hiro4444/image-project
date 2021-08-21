@@ -1,0 +1,38 @@
+body {
+    font-family:'special ellite','cursive';
+    background:rgb(0, 0, 0);   
+}
+.header_div {
+    background: rgb(10, 136, 136);
+    color: rgb(0, 255, 234);
+}
+.header_div img {
+    width:100px;
+}
+.main_div {
+    background: rgb(0, 0, 0);
+    padding: 10px;
+    margin-top: 15px;
+    border: rgb(0, 255, 234);
+}
+.main_div label {
+    background: rgb(0, 0, 0);
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px rgb(0, 255, 255);
+    color:rgb(0, 255, 221);
+}
+.main_div button {
+    width: 310px;
+    font-size: 16px;
+    box-shadow:5px 5px 18px rgb(0, 255, 255);
+    border: 1px solid;
+    color:rgb(0, 0, 0);
+}
+#camera {
+    border: black;
+    width: 310px;
+    height: 310px;
+    box-shadow: 5px 5px 18px rgb(0, 255, 213);
+}
